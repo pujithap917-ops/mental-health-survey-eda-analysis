@@ -1,13 +1,1 @@
-# Data Manipulation & Core Pipeline
-numpy==1.26.4
-pandas==2.2.2
 
-# Data Visualization & Analytical Graph Plotting
-matplotlib==3.8.4
-seaborn==0.13.2
-
-# Dashboard Deployment Engine
-streamlit==1.35.0
-
-# Optional Performance Boosters for Web App Rendering
-watchdog==4.0.1
